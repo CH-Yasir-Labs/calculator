@@ -28,7 +28,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/calculator-python.git
+(https://github.com/CH-Yasir-Labs/calculator/blob/main/README.md)
 Navigate to the project folder:
 
 bash
